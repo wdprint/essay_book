@@ -2,10 +2,4 @@
 title: 프로로그
 ---
 
-body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. 
-
-body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. 
-
-body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. 
-
-body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. body text is here. 
+이책을 내기 까지 물심양면으로 지원해주신 여러 분들께 감사를 드립리다.
